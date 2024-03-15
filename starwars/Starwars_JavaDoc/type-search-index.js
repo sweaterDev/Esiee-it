@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"starwars","l":"Acteur"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"starwars","l":"Duet"},{"p":"starwars","l":"Film"},{"p":"starwars","l":"Personnage"},{"p":"starwars","l":"PersonnageGentil"},{"p":"starwars","l":"PersonnageMechant"},{"p":"starwars","l":"Test"}];updateSearchResults();
